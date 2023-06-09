@@ -3,10 +3,6 @@
 * Second Element
 * Third Element
 
-<ul>
-    <li></li>
-</ul>
-
 >[!IMPORTANT]
 >
 >This is an IMPORTANT note.
